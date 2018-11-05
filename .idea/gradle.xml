@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Algorithm" />
+            <option value="$PROJECT_DIR$/AndroidDemo" />
+            <option value="$PROJECT_DIR$/DesignPattern" />
+            <option value="$PROJECT_DIR$/JavaDemo" />
+            <option value="$PROJECT_DIR$/jniutils" />
+            <option value="$PROJECT_DIR$/openSource" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

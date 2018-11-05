@@ -1,0 +1,31 @@
+{
+    "status": 1,
+    "code": 10000,
+    "error": "success",
+    "data": {
+        "today": {
+            "total_declaration": 0,
+            "total_sign_bill": 0
+        },
+        "pre_loan": {
+            "total_credit_wait_submit": 0,
+            "total_credit_wait_audit": 0,
+            "total_credit_no_through": 0,
+            "total_credit_apply_fail": 0,
+            "total_profile_wait_submit": 0,
+            "total_profile_wait_audit": 0,
+            "total_profile_no_through": 0,
+            "total_video_wait_submit": 0,
+            "total_video_wait_audit": 0,
+            "total_video_no_through": 0,
+            "total_contract_wait_submit": 0,
+            "total_contract_wait_delivers": 0,
+            "total_contract_wait_audit": 0,
+            "total_contract_no_through": 0,
+            "total_loan_wait_submit": 0,
+            "total_loan_wait_audit": 0,
+            "total_loan_no_through": 0,
+            "total_apply_success": 0
+        }
+    }
+}

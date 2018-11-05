@@ -1,0 +1,2 @@
+include ':AndroidDemo', ':JavaDemo', ':Algorithm', ':DesignPattern', ':openSource', ':jniutils'
+
